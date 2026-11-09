@@ -3,18 +3,19 @@ Time Series Forecasting of Hair Care Product Sales Using SARIMA and ETS
 
 ## About the Project
 
-This project focuses on analyzing and forecasting daily sales of hair care products at PT Kreatif Maju Bersama using time series forecasting techniques.
+Proyek ini berfokus pada analisis dan peramalan penjualan harian produk perawatan rambut (hair care) di PT Kreatif Maju Bersama menggunakan teknik peramalan deret waktu (time series forecasting).
 
-The main objective is to develop forecasting models and compare their predictive performance to identify the most suitable approach for daily sales forecasting.
+Tujuan utama proyek ini adalah mengembangkan beberapa model peramalan dan membandingkan kinerja prediksinya untuk menentukan pendekatan yang paling sesuai dalam meramalkan penjualan harian produk perawatan rambut.
+
 
 ## Objectives
 
-- Understand and explore historical hair care product sales data.
-- Perform data preprocessing and exploratory data analysis.
-- Analyze time series stationarity.
-- Develop a SARIMA forecasting model.
-- Develop an ETS forecasting model.
-- Compare forecasting performance using MAE, RMSE, and WAPE.
+- Memahami dan mengeksplorasi data historis penjualan produk perawatan rambut.
+- Melakukan prapemrosesan data (data preprocessing) dan analisis eksplorasi data (Exploratory Data Analysis/EDA).
+- Menganalisis stasioneritas data deret waktu (time series stationarity).
+- Mengembangkan model peramalan SARIMA.
+- Mengembangkan model peramalan ETS.
+- Membandingkan kinerja hasil peramalan menggunakan metrik MAE, RMSE, dan WAPE.
 
 ## Methodology
 
